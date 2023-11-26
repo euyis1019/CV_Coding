@@ -1,0 +1,14 @@
+FCNs in the Wild Pixel-level Adversarial and Constraint-based Adaptation.pdf  
+FCN\pretrain_model\  
+FCN/checkpoints/
+FCN\__pycache__
+*.tar
+*.csv
+*.pyc
+utils\__pycache__
+__pycache__
+data\__pycache__\
+data\__pycache__
+data\GTA5\
+log
+visualization_viz
